@@ -3,21 +3,21 @@
         <img src="https://i.ibb.co/6tbmPj1/maaluttty.jpg" alt="GIF" width="250" height="250"/>
 </p>
 
-<a href="#"><img title="LILLY_V2" src="https://img.shields.io/badge/MAALUTTY_V3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="LILLY_V2" src="https://img.shields.io/badge/LILLY_V2_V3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/MAALUTTY_V3?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-CARLOX & MASS-SER-/LILLY-V2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to make it public
+Project created by <a href="https://github.com/">Carlox & Mass-ser</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MAALUTTY_V3&title=MAALUTTY_V3%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Carlox-ser-mass-ser/LILLY_V2&title=MA%20Views)
 
 ## Setup
 <div align="center">
@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
     
   ### Deploy server 1
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/MAALUTTY_V3) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Carlox-ser-mass-ser/LILLY_V2) 
 
   ### Deploy server 2
 
@@ -43,25 +43,25 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/nijin-husni/MAALUTTY_V3
-$ cd MAALUTTY_V3
+$ git clone https://github.com/Carlox-ser-mass-ser/LILLY_V2
+$ cd LILLY_V2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node maalutty.js
+$ node LILLY_V2.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/nijin-husni/MAALUTTY_V3
-$ cd MAALUTTY_V3
+$ git clone https://github.com/Carlox-ser-mass-ser/LILLY_V2
+$ cd LILLY_V2
 $ npm i
-$ node maalutty.js
+$ node LILLY_V2.js
 ```
 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/nijin-husni/MAALUTTY_V3">
+  <a href="https://github.com/Carlox-ser-mass-ser/LILLY_V2">
     
 <a href="https://github.com/farhan-dqz/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
