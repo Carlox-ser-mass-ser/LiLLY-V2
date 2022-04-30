@@ -97,7 +97,7 @@ Click WA logo to Join public bot Group👇
 
 ### contact on instagram👇
 
-[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/_husni_ser_/)
+[![follow](https://i.imgur.com/abRLc29.png)](https://www.instagram.com/_husni_ser_/)
 
 
 ### ⚠️ Warning! 
